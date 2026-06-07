@@ -1,0 +1,7 @@
+python-telegram-bot>=20.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Раскомментируйте нужное в зависимости от LLM_PROVIDER в .env:
+# anthropic>=0.25.0
+# openai>=1.0.0
